@@ -10,6 +10,20 @@ namespace RobotsvsDinos
     {
         static void Main(string[] args)
         {
+            
+           
+
+            
+
+            //Member Variables (HAS A)
+
+            //Constructor
+
+            //Member Methods (CAN DO)
+            Battlefield battlefield = new Battlefield();
+            battlefield.RunBattle();
+
         }
+        
     }
 }
